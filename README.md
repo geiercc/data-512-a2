@@ -125,10 +125,6 @@ The columns were:
   d: regional_article_pct	-  a numeric field with the percentage of articles per population in the region
   e: regional_quality_pct - a numeric field with the percentage of quality articles per article count in the region
 
-
-## table with column and what it is 
-## all csv outputs
-
 Reflection:
 I learned that you often need to take a look at the data before working with it and truly understand what all the data attributes mean, and also that it is important to fully understand how an API works before working with it. As an example I didn't know that the API could only return 50 article ratings at a time which caused some confusion as I tried to understand the erros I wsa getting. I was suprised that Northern America wasn't higher on the list of regions by article coverage as I would have expected it to be higher given the data was coming from English Wikipedia and Northern America is heavily English speaking. This assignment raised the question of what kind of biases the Wikipedia content assessment criteria contains for each country? I think this would be something interesting to look into and also to see if the criteria is much different across different languages of Wikipedia.
 
