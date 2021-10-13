@@ -22,10 +22,12 @@ Additionally the ORES REST API was used to determine the rating, or content asse
 The potential outcomes were Featured Article, Good Article, B, C, Start, and Stub. The value returned from the API for "prediction" was the value used in this analysis as the article quality rating. Note that some articles did not get a quality rating returned from this API and these were saved in a seperate file location discussed below. It should also be noted that this API has a max batch GET of 50 articles at a time which can lead to a slow processing time if lots of articles were used as the input.
 
 
-source data and description
+## source data and description
 
-table with column and what it is 
-all csv outputs and 6 tables
+## table with column and what it is 
+## all csv outputs and 6 tables
+
+## reflecting on what you have learned, what you found, what (if anything) surprised you about your findings, and/or what theories you have about why any biases might exist (if you find they exist). You can also include any questions this assignment raised for you about bias, Wikipedia, or machine learning.
 
 
 
